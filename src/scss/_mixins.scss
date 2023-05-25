@@ -1,0 +1,9 @@
+@mixin hover_block {
+		color: $hover_color_text;
+		transform: scale(1.1);
+}
+@mixin hover_text {
+		color: $hover_color_text;
+		transform: scale(1.1);
+		font-size: 1.2em;
+}
